@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: sans-serif;
+    text-align: none;
+    box-sizing: border-box;
+    list-style: none;
+}
+body{
+    background-color:#080E24;
+    margin:100px;
+    
+}
+.main{
+    height:500px;
+    width:500px;
+    margin:auto;
+    background-color: aliceblue;
+    
+}
+.orbit1{
+    height:450px;
+    width:450px;
+    border-radius: 50%;
+    border: 1px solid blue;
+
+}
